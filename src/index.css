@@ -1,0 +1,220 @@
+/* about css */
+.pcontent h2
+{
+  font-size: 65px;
+  font-weight: bold;
+  color: #16527F;
+}
+/* presence css */
+.pcontent
+{
+  margin-left: 8% !important;
+  margin-top: 10% !important;
+  width: 45% !important;
+}
+.pcontent h1
+{
+  color: #2E3D4B;
+}
+.pmap img
+{
+  border: none;
+  width: 98%;
+}
+/* menu css */
+
+/* benefits css */
+#benefits h1
+{
+  color: #2E3D4B;
+  font-size: 45px !important;
+}
+.ftext
+{
+  background-color: #F4F8FB;
+  color: #16527F;
+  margin-top: 8%;
+}
+.franchise  p
+{
+  font-size: 20px !important;
+  font-weight: bold;
+  padding-top: 25px;
+}
+.subimage
+{
+  width: 80px !important;
+  height: 80px !important;
+  margin-left: 15px;
+}
+/* outlet css */
+#outlet
+{
+  margin: auto;
+}
+.card
+{
+  border: none !important;
+  border-radius: 25px !important;
+  box-shadow: 0px 0px 6px 6px lightgray !important;
+  height: 550px !important;
+}
+#outlet img
+{
+  border-radius: 10px !important;
+  width: 99%;
+}
+#outlet h4
+{
+  font-size: 20px !important;
+  color: white;
+  padding: 8px;
+  width: 70%;
+  text-align: center;
+  border-radius: 20px;
+  margin-top: -8%;
+  margin-left: 15%;
+  padding: 10px;
+}
+/* apply now css */
+.apply-now
+{
+  background-color: #FFCC00;
+  border-radius: 15px;
+  padding: 25px;
+}
+.apply-now h1
+{
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 28px;
+}
+.apply-now input
+{
+  border-radius: 8px;
+  border: none;
+  margin-top: 3%;
+  padding: 10px;
+}
+/* footer css */
+.footer-container
+{
+  background-color: black !important;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  font-size: 20px;
+}
+/* button css */
+.navbar button
+{
+  background-color: #FFCC00;
+  color: black;
+  border-radius: 18px;
+  border: none;
+}
+.navbar button:hover,
+#outlet button:hover ,
+.pcontent button:hover
+{
+  background-color: #FFCC00 !important;
+  color: black !important;
+}
+#outlet button,
+.pcontent button
+{
+  border-radius: 28px !important;
+  background-color: #FFCC00;
+  color: black;
+  border: none;
+  padding: 10px 25px;
+}
+#applynowbtn
+{
+  background-color: #2E3D4B;
+  color: #F4F8FB;
+  font-size: medium;
+  margin-top: 4%;
+}
+#applynowbtn:hover
+{
+  background-color: rgb(29, 27, 27) !important;
+  box-shadow: 0px 0px 1px 1px black !important;
+}
+/* home css */
+.home .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background: #f9f9f9;
+}
+.home .image-container {
+  flex: 1;
+}
+.home .image-container img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.home .content-container {
+  flex: 2;
+  padding: 20px;
+}
+
+.home .content-container h1 {
+  font-size: 2em;
+  margin-top: 0;
+}
+
+.home .content-container p {
+  font-size: 1em;
+  color: #666;
+}
+
+.home button {
+  background-color: #f0ad4e;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.home button:hover {
+  background-color: #ec971f;
+}
+
+.home .stats {
+  display: flex;
+  margin-top: 20px;
+}
+
+.home .stats div {
+  margin-right: 20px;
+  text-align: center;
+}
+
+.home .stats h3 {
+  margin: 0;
+  font-size: 1.5em;
+  color: #333;
+}
+
+.home .stats p {
+  margin: 5px 0 0;
+  font-size: 0.9em;
+  color: #666;
+}
+
+.home .mascot-container {
+  flex: 1;
+  text-align: right;
+}
+
+.home .mascot-container img {
+  width: 100px;
+}
