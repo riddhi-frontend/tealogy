@@ -218,3 +218,20 @@
 .home .mascot-container img {
   width: 100px;
 }
+.slider-container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.slick-slide img {
+  width: 50%;
+  height: 80%;
+}
+
+.description {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
